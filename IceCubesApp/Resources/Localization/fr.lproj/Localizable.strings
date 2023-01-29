@@ -160,13 +160,13 @@
 "account.action.message" = "Message";
 "account.action.notify-enable" = "Activer les notifications";
 "account.action.notify-disable" = "Désactiver les notifications";
-"account.action.reboosts-show" = "Afficher les boosts";
-"account.action.reboosts-hide" = "Masquer les boosts";
+"account.action.reboosts-show" = "Afficher les partages";
+"account.action.reboosts-hide" = "Masquer les partages";
 "account.action.block" = "Bloquer";
 "account.action.unblock" = "Débloquer";
 "account.action.mute" = "Rendre muet";
 "account.action.unmute" = "Annuler le mode muet";
-"account.boosted-by" = "Boosté par";
+"account.boosted-by" = "Partagé par";
 "account.detail.about" = "À propos";
 "account.detail.familiar-followers" = "Aussi suivi par";
 "account.detail.n-fields %lld" = "%lld champs";
@@ -200,7 +200,7 @@
 "account.list.name" = "Nom de la liste";
 "account.post.pinned" = "Publication épinglée";
 "account.posts" = "Publications";
-"account.relation.follows-you" = "Vous suit";
+"account.relation.follows-you" = "vous suit";
 "account.joined" = "Inscrit";
 "account.action.logout" = "Déconnexion";
 
@@ -268,7 +268,7 @@
 "notifications.menu-title.follow-request" = "Demande de suivi";
 "notifications.menu-title.mention" = "Mention";
 "notifications.menu-title.poll" = "Sondage";
-"notifications.menu-title.reblog" = "Boost";
+"notifications.menu-title.reblog" = "Partage";
 "notifications.menu-title.status" = "Statut";
 "notifications.menu-title.update" = "Mise à jour du statut";
 "notifications.navigation-title" = "Toutes les notifications";
@@ -302,7 +302,7 @@
 "status.action.unbookmark" = "Démarquer";
 "status.action.unboost" = "Annuler la promotion";
 "status.action.unfavorite" = "Retirer des favoris";
-"status.action.unpin" = "Dépingler";
+"status.action.unpin" = "Désépingler";
 "status.action.view-in-browser" = "Afficher dans le navigateur";
 "status.draft.delete" = "Supprimer le brouillon";
 "status.draft.save" = "Enregistrer le brouillon";
@@ -344,9 +344,9 @@
 "status.poll.frequency" = "Fréquence de sondage";
 "status.poll.option-n %lld" = "Option %lld";
 "status.post-from-%@" = "Publication de %@";
-"status.row.was-boosted" = "a boosté";
+"status.row.was-boosted" = "a partagé";
 "status.row.was-reply" = "Répondu à";
-"status.row.you-boosted" = "Vous avez boosté";
+"status.row.you-boosted" = "Vous avez partagé";
 "status.show-less" = "Afficher moins";
 "status.show-more" = "Afficher plus";
 "status.summary.at-time" = " à ";
